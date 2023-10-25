@@ -1,3 +1,7 @@
+# Studenci WSEI przjmują repo.
+# I nic już nie zadziała.
+
+
 # CachyOS-Settings
 This repository contains configuration files that tweak sysctl values, add udev rules to automatically set schedulers, and provide additional optimizations.
 
