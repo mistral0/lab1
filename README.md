@@ -1,4 +1,4 @@
-# Studenci WSEI przjmują repo.
+# Studenci WSEI przejmują repo.
 # I nic już nie zadziała.
 
 
